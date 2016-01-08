@@ -1,0 +1,6 @@
+lowH: 22
+highH: 56
+lowS: 30
+HighS: 255
+lowV: 96
+highV: 255
