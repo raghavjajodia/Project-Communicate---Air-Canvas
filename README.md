@@ -9,6 +9,7 @@ Intructions to run the code
 
 Example of the project
 
-https://youtu.be/5IzoMEGGgUc
+[![Demo CountPages alpha](https://j.gifs.com/OyqzzL.gif)]
+
 
 Tracking blue object through this method.
