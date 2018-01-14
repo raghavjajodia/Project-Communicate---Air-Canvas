@@ -9,7 +9,7 @@ Intructions to run the code
 
 Example of the project
 
-[![Demo CountPages alpha](https://j.gifs.com/OyqzzL.gif)]
+![Demo CountPages alpha](https://j.gifs.com/OyqzzL.gif)
 
 
 Tracking blue object through this method.
